@@ -12,6 +12,5 @@ preferred_name = "LG"
 
 puts "Hello " + preferred_name 
 
-puts "You are assigned to cohort " + cohort 
+puts "Your username is " + username 
 
-puts "Today it is " + local_temperature + "degrees in " + zipcode
